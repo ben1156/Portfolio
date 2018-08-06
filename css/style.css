@@ -1,0 +1,75 @@
+@import url('//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css');
+
+.navbar-default:hover{
+    font-weight:bold;
+}
+++ try to make the below line work ++
+:hover{
+  text-decoration:underline;}
+++ make above line work++ 
+body {
+  position: relative;
+  color: grey;
+}
+
+section {
+  padding-top: 65px;
+  margin-bottom: 25px;
+  margin-top:1
+  height:550px;
+}
+
+.nav .active {
+  background-color: green !important;
+}
+.progress-bar{
+  color:#A2D4DE;
+}
+.navbar-brand{
+  padding-top: 0px !important;
+  margin-top: 10px;
+}
+
+.brand-img {
+  vertical-align: middle !important;
+  max-width: 100px;
+  width: 25%;
+}
+
+.navbar-default {
+  padding: 10px;
+  background-color: #FF8000 !important;
+}
+
+.brand-text {
+  vertical-align: middle;
+  font-size: 20px;;
+  color: green;
+}
+
+.jumbotron {
+  padding-left: 60px;
+  margin: 0px 0px 0px 0px;
+  color:grey;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #8A4B08;
+}
+
+.caption > span {
+  font-size: 20px;
+  color: green;
+  display: block;
+  margin: 20px 40px 20px 40px;
+  
+}
+
+.caption > p {
+    text-align: left;
+    margin-left: 40px;
+  
+  }
+
+
+
